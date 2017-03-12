@@ -1,0 +1,31 @@
+#######################################
+# Syntax Coloring Map For Switch
+#######################################
+
+#######################################
+# Datatypes (KEYWORD1)
+#######################################
+
+Switch	 KEYWORD1
+
+#######################################
+# Methods and Functions (KEYWORD2)
+#######################################
+
+TurnOn	 KEYWORD2
+TurnOff	 KEYWORD2
+CheckSwitch	 KEYWORD2
+SetState	 KEYWORD2
+GetStatus	KEYWORD2
+
+#######################################
+# Instances (KEYWORD2)
+#######################################
+
+#######################################
+# Constants (LITERAL1)
+#######################################
+
+PowerOn LITERAL1
+LocalSwitch LITERAL1
+Remote LITERAL1
